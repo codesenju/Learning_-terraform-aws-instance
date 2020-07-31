@@ -1,2 +1,2 @@
 ﻿# Learning_-terraform-aws-instance
-### Change to ```windows``` branch to use Windows compatible docker-compose.yaml file.
+### Change to ```master``` branch to use Linux compatible docker-compose.yaml file.
